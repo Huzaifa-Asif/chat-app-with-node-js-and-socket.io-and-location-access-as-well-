@@ -3,5 +3,18 @@ This is a real time chat app build in node-js using express as middle-ware and S
 
 Live Web App Link: https://real-time-chat-app-huzaifa8580.herokuapp.com/
 
+1) Download project
+2) Open terminal and enter npm install
+3) npm start 
 
+The project will be live on port 3000 
+
+Project Screen Shots 
+
+Chat Room with huzaifa and Steve.
+![](chat-app.jpg)
+
+
+When user click on location sent from other user.
+![](location-sharing.jpg)
 
