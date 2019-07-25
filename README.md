@@ -12,7 +12,7 @@ The project will be live on port 3000
 Project Screen Shots 
 
 Chat Room with huzaifa and Steve.
-![](chat-app.png)
+![](Chat-app.png)
 
 
 When user click on location sent from other user.
